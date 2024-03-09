@@ -1,6 +1,6 @@
 # Rithik Sachdev 🚀
 
-[![GitHub](https://img.shields.io/badge/Github-rithiksachdev-blue)](https://github.com/rithiksachdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rithik%20Sachdev-blue)](https://www.linkedin.com/in/rithik-sachdev) [![Email](https://img.shields.io/badge/Email-rithiks%40andrew.cmu.edu-green)](mailto:rithiks@andrew.cmu.edu) [![Phone](https://img.shields.io/badge/Phone-+1%20412-224-8863-blue)]()
+[![GitHub](https://img.shields.io/badge/Github-rithiksachdev-blue)](https://github.com/rithiksachdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rithik%20Sachdev-blue)](https://www.linkedin.com/in/rithik-sachdev) [![Email](https://img.shields.io/badge/Email-rithiks%40andrew.cmu.edu-green)](mailto:rithiks@andrew.cmu.edu) [![Phone](https://img.shields.io/badge/Phone-+1%204122248863-blue)]()
 ## Summary 🌟
 
 Dynamic and innovative Master of Software Engineering student at Carnegie Mellon University, specializing in Scalable Systems. Demonstrated expertise in Java, Python, React, Spring Boot, and cloud technologies. Distinguished by leading a key research initiative at CMU's Human-Computer Interaction Institute and contributing to cutting-edge software solutions at Nextuple Inc.
