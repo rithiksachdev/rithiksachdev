@@ -39,6 +39,7 @@ Dynamic and innovative Master of Software Engineering student at Carnegie Mellon
 - Architected a Kafka consumer using Avro serialization to process 25 million records, stored in Cassandra and Redis, cutting processing time by 66%.
 - Developed performance scripts with JMeter, implementing batching to improve API efficiency by 15%.
 
+### Nextuple Inc | Bangalore, India
 - **Associate Software Engineer**, August 2021 - June 2022
 - Led development of a full-stack application (Spring Boot, React) for the Support team, reducing order management time by 30% for the SDD application.
 - Conducted a POC comparing Cassandra and ScyllaDB on VMs and Kubernetes.
