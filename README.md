@@ -10,7 +10,7 @@ Dynamic and innovative Master of Software Engineering student at Carnegie Mellon
 ### Carnegie Mellon University | Pittsburgh, Pennsylvania
 - Master of Software Engineering in Scalable Systems, December 2024
 - Courses: Design Patterns, DevOps and CI, API Design, Formal Methods, Machine Learning in Production
-- QPA: 4.14
+- QPA: 4
 
 ### Shri G.S. Institute of Technology and Science | Indore, India
 - Bachelor of Technology in Computer Science and Engineering, July 2021
@@ -19,29 +19,44 @@ Dynamic and innovative Master of Software Engineering student at Carnegie Mellon
 
 ## Experience 💼
 
-### Ludo Lab, CMU Human-Computer Interaction Institute | Pittsburgh, PA
-- **Research Assistant**, January 2021 - Present
-- Architecting a Pub/Sub system integrating Redis and S3 for scalable real-time interactions, enhancing Twitch's Audience Participant game.
-- Transitioned data transfer protocols from Ajax to Web Sockets, reducing latency and improving user engagement.
+### WAVLab, Language Technology Institute, CMU | Pittsburgh, PA
+- **Graduate Research Assistant**, July 2024 - December 2024
+- Developed an LLM-based prompt optimization algorithm for post-ASR correction on the CHiME-4 dataset, reducing WER from 7.49% to 4.88%, leading to a paper submission to IEEE ICASSP (published on ArXiv).
+- Managed cluster jobs using Babel Cluster for efficient job scheduling with GPU support, ensuring proper Conda environment setup for seamless execution.
+- Created a proof of concept with multimodal data (speech and text) to evaluate virtual patient agent performance for 7cups, providing insights into conversational impacts.
+
+### Teel Labs | Pittsburgh, PA
+- **Software Development Engineer Intern**, May 2024 - July 2024
+- Led development of a notification microservice using React, Node.js, and Spring Boot, automating instructor updates and reducing manual email tasks by 100%.
+- Built CI/CD pipelines using Azure non-prod account and custom Azure Resource Manager to streamline deployment.
+- Achieved 100% coverage in integration testing, ensuring reliability and performance.
 
 ### Nextuple Inc | Bangalore, India
-- **Software Engineer**, August 2021 - July 2023
-- Engineered a custom Spring configuration for improved load balancing, boosting system performance by 40%.
-- Developed a versatile microservice for AWS and Azure file storage, enhancing security and cloud solution efficiency.
-- Led a team of 5 interns, emphasizing collaborative testing and quality assurance in software development.
+- **Software Engineer**, June 2022 - July 2023
+- Built a custom load balancer leveraging multiple reader pods in AWS, boosting system performance by 40%.
+- Implemented near cache in Spring Boot for microservices, cutting API response time by 30 milliseconds.
+- Constructed a New Relic dashboard with Elasticsearch, configuring 5-second alerts and monitoring 99th percentile API performance, enhancing anomaly detection by 35% and reducing service crashes by 25%.
+- Architected a Kafka consumer using Avro serialization to process 25 million records, stored in Cassandra and Redis, cutting processing time by 66%.
+- Developed performance scripts with JMeter, implementing batching to improve API efficiency by 15%.
 
-## Projects 🚀
+- **Associate Software Engineer**, August 2021 - June 2022
+- Led development of a full-stack application (Spring Boot, React) for the Support team, reducing order management time by 30% for the SDD application.
+- Conducted a POC comparing Cassandra and ScyllaDB on VMs and Kubernetes.
+- Built a browser extension and automation script to showcase Metro BOPIS, boosting client adoption by 20%.
+- Implemented single sign-on for multiple identity providers in an authorization microservice.
+- Conducted integration and user acceptance testing, code reviews, and unit testing for various microservices.
 
-### Movie Recommendation Model
-- Developed a highly scalable recommendation system in Python, serving up to 1 million concurrent users with a 50 ms response time.
-- Implemented advanced algorithms and real-time analytics for system optimization.
+## Projects 🛠️
 
-### Virtual Dressing Room
-- Created a web-based virtual try-on application, improving online shopping experiences with realistic simulations.
-- Integrated advanced image processing techniques for enhanced user interaction.
+### Movie Recommendation Service | CMU School of Computer Science, January 2024 - April 2024
+- Led a team to develop a high-performance movie recommendation service for over 1M users with <100ms response time.
+- Engineered ETL pipelines to process Kafka streams and store user data in Postgres.
+- Designed MLOps CI/CD pipelines in Jenkins, achieving 90% test coverage.
+- Set up real-time infrastructure monitoring using Prometheus and Grafana with a 5-second refresh rate.
 
-### Research Publication: Detection of DDoS Attacks
-- Co-authored a comparative study on the effectiveness of supervised learning algorithms in detecting DDoS attacks, achieving a 99.8% accuracy rate with the Random Forest algorithm.
+### MARS Twitch Streaming Extension | CMU Human-Computer Interaction, January 2024 - April 2024
+- Enhanced accessibility by developing a Twitch extension with C# and Node.js, featuring language translation for users with disabilities.
+- Implemented web sockets to process game events, reducing latency by 25% and improving real-time responsiveness.
 
 ## Skills 🚀
 
@@ -52,7 +67,7 @@ Dynamic and innovative Master of Software Engineering student at Carnegie Mellon
 - MongoDB, Cassandra, Redis, Elasticsearch, SQL, Postgres
 
 ### Libraries/Frameworks
-- Spring Boot, ReactJS, Redux, Flask, Node.js, Express
+- Node.js, Spring Boot, ReactJS, Redux, Flask, Express
 
 ### Tools/Techniques
 - Azure, AWS, Docker, Kubernetes, Kafka, Pandas, NumPy, Jira, Postman, JUnit, Cucumber
