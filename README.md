@@ -62,7 +62,8 @@ Dynamic and innovative Master of Software Engineering student at Carnegie Mellon
 ## Skills 🚀
 
 ### Programming Languages
-- Java, C/C++, C#, JavaScript, TypeScript, Python, Ruby
+- Expert: Java, JavaScript, TypeScript, Python
+- Intermediate: C/C++, C#, Ruby
 
 ### Databases
 - MongoDB, Cassandra, Redis, Elasticsearch, SQL, Postgres
