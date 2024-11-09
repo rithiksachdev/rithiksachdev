@@ -21,7 +21,7 @@ Dynamic and innovative Master of Software Engineering student at Carnegie Mellon
 
 ### WAVLab, Language Technology Institute, CMU | Pittsburgh, PA
 - **Graduate Research Assistant**, July 2024 - December 2024
-- Developed an LLM-based prompt optimization algorithm for post-ASR correction on the CHiME-4 dataset, reducing WER from 7.49% to 4.88%, leading to a paper submission to IEEE ICASSP (published on [!ArXiv(https://arxiv.org/pdf/2407.16370)]).
+- Developed an LLM-based prompt optimization algorithm for post-ASR correction on the CHiME-4 dataset, reducing WER from 7.49% to 4.88%, leading to a paper submission to IEEE ICASSP (published on [![ArXiv](https://arxiv.org/pdf/2407.16370)]).
 - Managed cluster jobs using Babel Cluster for efficient job scheduling with GPU support, ensuring proper Conda environment setup for seamless execution.
 - Created a proof of concept with multimodal data (speech and text) to evaluate virtual patient agent performance for 7cups, providing insights into conversational impacts.
 
